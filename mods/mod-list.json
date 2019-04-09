@@ -1,0 +1,211 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-warehouses",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsbioprocessing",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsindustries",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsinfiniteores",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelspetrochem",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelssmelting",
+      "enabled": true
+    },
+    
+    {
+      "name": "AngelsUsedCoolant",
+      "enabled": true
+    },
+    
+    {
+      "name": "Big_Brother",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    
+    {
+      "name": "CircuitProcessing",
+      "enabled": true
+    },
+    
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    
+    {
+      "name": "Explosive Excavation",
+      "enabled": true
+    },
+    
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "KS_Power",
+      "enabled": true
+    },
+    
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    
+    {
+      "name": "long-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "Nanobots",
+      "enabled": true
+    },
+    
+    {
+      "name": "Nuclear Fuel",
+      "enabled": true
+    },
+    
+    {
+      "name": "OpteraLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "ScienceCostTweakerM",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpaceMod",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    }
+  ]
+}
